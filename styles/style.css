@@ -209,6 +209,8 @@
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
+    display: flex;
+    gap:238px
   }
   
   .card_type_book {
@@ -225,6 +227,8 @@
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
+    display: flex;
+    gap:90px ;
   }
 .card__title {
     font-weight: 700;
@@ -240,16 +244,6 @@
     line-height: 120%;
     text-decoration: none;
 
-}
-
-.card_type_film {
-    display: flex;
-    gap:238px ;
-}
-
-.card_type_picture {
-    display: flex;
-    gap:90px ;
 }
 
 .lots__look-more-link {
