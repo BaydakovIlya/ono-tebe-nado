@@ -228,6 +228,7 @@
     background-position: center;
     background-size: cover;
 }
+
 .card__title {
     font-weight: 700;
     font-size: 22px;
@@ -250,7 +251,7 @@
     font-size: 20px;
     line-height: normal;
     text-underline-offset: 5px;
-  }
+}
 
 .lots__look-more-link:hover {
     text-underline-offset: 7px;
